@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "flask-cors": "^0.0.1"
+  }
+}
